@@ -4,7 +4,7 @@ An interactive musical art experience inspired by [Patatap](https://patatap.com)
 
 ## Demo
 
-🎵 **[Live Demo](your-deployment-link-here)** | 🎨 [Original Patatap](https://patatap.com)
+🎵 🎨 Inspired by [Original Patatap](https://patatap.com)
 
 ## Features
 
